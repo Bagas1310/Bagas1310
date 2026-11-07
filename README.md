@@ -12,7 +12,7 @@
 - 💻 I specialize in **Frontend Web Development** with a focus on modern JavaScript frameworks.
 - 🎨 Passionate about crafting clean UI, responsive layouts, and smooth user experiences.
 - 🛠️ Currently honing my skills in **React, TypeScript, and modern styling tools**.
-- 🌐 Portfolio: [my-portofolio.vercel.app](https://bagas1310.vercel.app)
+- 🌐 Portfolio: https://bagas-ramadhan.vercel.app/
 
 ---
 
